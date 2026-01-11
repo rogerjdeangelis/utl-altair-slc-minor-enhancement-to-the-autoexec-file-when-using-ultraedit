@@ -1,6 +1,7 @@
 %let pgm=utl-altair-slc-minor-enhancement-to-the-autoexec-file-when-using-ultraedit;
 
 Altair slc minor enhancement to the autoexec file when using ultraedit
+https://github.com/rogerjdeangelis/utl-altair-slc-minor-enhancement-to-the-autoexec-file-when-using-ultraedit
 
 Difficult to display here, so see github
 
