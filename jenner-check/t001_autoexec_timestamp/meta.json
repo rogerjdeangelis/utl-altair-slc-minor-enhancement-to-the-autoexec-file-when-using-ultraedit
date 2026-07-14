@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_autoexec_timestamp",
+  "source_file": "utl-altair-slc-minor-enhancement-to-the-autoexec-file-when-using-ultraedit.sas",
+  "source_blob_sha": "9360498074b30f3703911ab01bc7bfbf16d5f548",
+  "source_commit": "f26e8bcaff1393806cd82cd57c6c75b7ed007409",
+  "notes": "Roger's autoexec time-stamp DATA step (file print; put/putlog time8. of time()), extracted verbatim from the embedded SAS in his mixed prose+code .sas file. No mock data needed; self-contained. Jenner returns a fixed clock (12:00:00), so the run is deterministic and reproducible."
+}
